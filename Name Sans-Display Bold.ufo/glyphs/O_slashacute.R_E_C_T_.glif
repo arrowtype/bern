@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslashacute.RECT" format="2">
+	<advance width="645"/>
+	<outline>
+		<component base="Oslash.RECT"/>
+		<component base="acutecomb" xOffset="318" yOffset="191"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0,0,0.5</string>
+		</dict>
+	</lib>
+</glyph>

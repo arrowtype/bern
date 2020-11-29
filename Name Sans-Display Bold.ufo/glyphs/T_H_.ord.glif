@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TH.ord" format="2">
+	<advance width="634"/>
+	<guideline x="1225" y="1129" angle="90"/>
+	<guideline x="30" y="1357" angle="90"/>
+	<outline>
+		<contour>
+			<point x="428" y="727" type="line"/>
+			<point x="325" y="727" type="line"/>
+			<point x="325" y="402" type="line"/>
+			<point x="428" y="402" type="line"/>
+			<point x="428" y="522" type="line"/>
+			<point x="510" y="522" type="line"/>
+			<point x="510" y="402" type="line"/>
+			<point x="613" y="402" type="line"/>
+			<point x="613" y="727" type="line"/>
+			<point x="510" y="727" type="line"/>
+			<point x="510" y="607" type="line"/>
+			<point x="428" y="607" type="line"/>
+		</contour>
+		<contour>
+			<point x="15" y="631" type="line"/>
+			<point x="100" y="631" type="line"/>
+			<point x="100" y="402" type="line"/>
+			<point x="202" y="402" type="line"/>
+			<point x="202" y="631" type="line"/>
+			<point x="287" y="631" type="line"/>
+			<point x="287" y="727" type="line"/>
+			<point x="15" y="727" type="line"/>
+		</contour>
+		<contour>
+			<point x="15" y="250" type="line"/>
+			<point x="613" y="250" type="line"/>
+			<point x="613" y="347" type="line"/>
+			<point x="15" y="347" type="line"/>
+		</contour>
+	</outline>
+</glyph>

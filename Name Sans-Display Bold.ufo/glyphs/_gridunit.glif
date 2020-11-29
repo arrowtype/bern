@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_gridunit" format="2">
+	<advance width="49"/>
+	<outline>
+		<contour>
+			<point x="6" y="4" type="line"/>
+			<point x="4" y="6" type="line"/>
+			<point x="4" y="43" type="line"/>
+			<point x="6" y="45" type="line"/>
+			<point x="43" y="45" type="line"/>
+			<point x="45" y="43" type="line"/>
+			<point x="45" y="6" type="line"/>
+			<point x="43" y="4" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="2">
+	<advance width="535"/>
+	<unicode hex="0046"/>
+	<outline>
+		<contour>
+			<point x="525" y="582" type="line"/>
+			<point x="525" y="727" type="line"/>
+			<point x="40" y="727" type="line"/>
+			<point x="40" y="0" type="line"/>
+			<point x="198" y="0" type="line"/>
+			<point x="198" y="253" type="line"/>
+			<point x="474" y="253" type="line"/>
+			<point x="474" y="395" type="line"/>
+			<point x="198" y="395" type="line"/>
+			<point x="198" y="582" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.rafalbuchner.mirroringDrawingLocal</key>
+			<dict>
+				<key>mirroringOptions</key>
+				<integer>3</integer>
+				<key>offset</key>
+				<array>
+					<integer>0</integer>
+					<integer>0</integer>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

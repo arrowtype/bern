@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.RECT" format="2">
+	<advance width="666"/>
+	<anchor x="329" y="727" name="top"/>
+	<anchor x="329" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="40" y="0" type="line"/>
+			<point x="40" y="727" type="line"/>
+			<point x="154" y="727" type="line"/>
+			<point x="471" y="299" type="line"/>
+			<point x="451" y="310" type="line"/>
+			<point x="489" y="310" type="line"/>
+			<point x="469" y="299" type="line"/>
+			<point x="469" y="727" type="line"/>
+			<point x="626" y="727" type="line"/>
+			<point x="626" y="0" type="line"/>
+			<point x="512" y="0" type="line"/>
+			<point x="196" y="427" type="line"/>
+			<point x="216" y="416" type="line"/>
+			<point x="178" y="416" type="line"/>
+			<point x="198" y="427" type="line"/>
+			<point x="198" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.5,0.5,0.5,0.5</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ND.ord" format="2">
+	<advance width="688"/>
+	<guideline x="42" y="1129" angle="90"/>
+	<outline>
+		<contour>
+			<point x="25" y="402" type="line"/>
+			<point x="125" y="402" type="line"/>
+			<point x="125" y="543" type="line"/>
+			<point x="129" y="543" type="line"/>
+			<point x="238" y="402" type="line"/>
+			<point x="312" y="402" type="line"/>
+			<point x="312" y="727" type="line"/>
+			<point x="213" y="727" type="line"/>
+			<point x="213" y="586" type="line"/>
+			<point x="209" y="586" type="line"/>
+			<point x="100" y="727" type="line"/>
+			<point x="25" y="727" type="line"/>
+		</contour>
+		<contour>
+			<point x="510" y="402" type="curve" smooth="yes"/>
+			<point x="375" y="402" type="line"/>
+			<point x="375" y="727" type="line"/>
+			<point x="508" y="727" type="line" smooth="yes"/>
+			<point x="605" y="727"/>
+			<point x="676" y="666"/>
+			<point x="676" y="564" type="curve" smooth="yes"/>
+			<point x="676" y="463"/>
+			<point x="606" y="402"/>
+		</contour>
+		<contour>
+			<point x="505" y="633" type="curve" smooth="yes"/>
+			<point x="476" y="633" type="line"/>
+			<point x="476" y="496" type="line"/>
+			<point x="505" y="496" type="line" smooth="yes"/>
+			<point x="547" y="496"/>
+			<point x="573" y="521"/>
+			<point x="573" y="565" type="curve" smooth="yes"/>
+			<point x="573" y="608"/>
+			<point x="547" y="633"/>
+		</contour>
+		<contour>
+			<point x="25" y="250" type="line"/>
+			<point x="671" y="250" type="line"/>
+			<point x="671" y="347" type="line"/>
+			<point x="25" y="347" type="line"/>
+		</contour>
+	</outline>
+</glyph>

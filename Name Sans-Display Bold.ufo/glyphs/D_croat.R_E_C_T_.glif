@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat.RECT" format="2">
+	<advance width="677"/>
+	<outline>
+		<contour>
+			<point x="12" y="302" type="line"/>
+			<point x="82" y="302" type="line"/>
+			<point x="208" y="310" type="line"/>
+			<point x="355" y="310" type="line"/>
+			<point x="355" y="433" type="line"/>
+			<point x="208" y="433" type="line"/>
+			<point x="82" y="441" type="line"/>
+			<point x="12" y="441" type="line"/>
+		</contour>
+		<component base="D.RECT" xOffset="26"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0,0,0.5</string>
+		</dict>
+	</lib>
+</glyph>

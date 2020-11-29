@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevegrave" format="2">
+	<advance width="712"/>
+	<unicode hex="1EB0"/>
+	<note>
+		.case
+	</note>
+	<outline>
+		<component base="A"/>
+		<component base="brevecomb" xOffset="354" yOffset="192"/>
+		<component base="gravecombviet" xOffset="354" yOffset="326"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>A</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>brevecomb</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>gravecombviet</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.87,0.87,0.87,0.48</string>
+		</dict>
+	</lib>
+</glyph>

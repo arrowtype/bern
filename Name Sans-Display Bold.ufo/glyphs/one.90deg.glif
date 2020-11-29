@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.90deg" format="2">
+	<advance width="306"/>
+	<outline>
+		<contour>
+			<point x="264" y="727" type="line"/>
+			<point x="264" y="0" type="line"/>
+			<point x="113" y="0" type="line"/>
+			<point x="113" y="536" type="line"/>
+			<point x="25" y="536" type="line"/>
+			<point x="25" y="640" type="line"/>
+			<point x="84" y="654"/>
+			<point x="125" y="681"/>
+			<point x="153" y="727" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

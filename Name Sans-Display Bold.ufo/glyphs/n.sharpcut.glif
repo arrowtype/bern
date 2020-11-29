@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n.sharpcut" format="2">
+	<advance width="300"/>
+	<outline>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.75,0.75,0.75,0.5</string>
+		</dict>
+	</lib>
+</glyph>

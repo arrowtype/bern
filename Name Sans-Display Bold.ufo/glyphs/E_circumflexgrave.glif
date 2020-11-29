@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexgrave" format="2">
+	<advance width="561"/>
+	<unicode hex="1EC0"/>
+	<note>
+		.case
+	</note>
+	<outline>
+		<component base="E"/>
+		<component base="circumflexcomb" xOffset="298" yOffset="191"/>
+		<component base="gravecombviet" xOffset="470" yOffset="268"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.87,0.87,0.87,0.48</string>
+		</dict>
+	</lib>
+</glyph>

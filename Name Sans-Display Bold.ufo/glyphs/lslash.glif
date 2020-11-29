@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="2">
+	<advance width="255"/>
+	<unicode hex="0142"/>
+	<guideline x="355" y="584" angle="27.1419"/>
+	<note>
+		just draw this
+	</note>
+	<outline>
+		<contour>
+			<point x="5" y="204" type="line"/>
+			<point x="239" y="324" type="line"/>
+			<point x="239" y="484" type="line"/>
+			<point x="5" y="364" type="line"/>
+		</contour>
+		<component base="l" xOffset="5"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.87,0.87,0.87,0.48</string>
+		</dict>
+	</lib>
+</glyph>

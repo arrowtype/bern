@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowrighttailfeather" format="2">
+	<advance width="1053"/>
+	<unicode hex="291A"/>
+	<outline>
+		<contour>
+			<point x="414" y="431" type="line"/>
+			<point x="414" y="296" type="line"/>
+			<point x="1033" y="296" type="line"/>
+			<point x="1033" y="431" type="line"/>
+		</contour>
+		<contour>
+			<point x="666" y="298" type="line"/>
+			<point x="666" y="430" type="line"/>
+			<point x="556" y="556" type="line"/>
+			<point x="40" y="556" type="line"/>
+			<point x="10" y="503" type="line"/>
+			<point x="47" y="470"/>
+			<point x="70" y="420"/>
+			<point x="70" y="364" type="curve" smooth="yes"/>
+			<point x="70" y="308"/>
+			<point x="47" y="258"/>
+			<point x="10" y="223" type="curve"/>
+			<point x="40" y="171" type="line"/>
+			<point x="556" y="171" type="line"/>
+		</contour>
+	</outline>
+</glyph>

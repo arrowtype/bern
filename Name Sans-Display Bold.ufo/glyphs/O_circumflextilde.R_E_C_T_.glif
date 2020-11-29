@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflextilde.RECT" format="2">
+	<advance width="648"/>
+	<note>
+		.case
+	</note>
+	<outline>
+		<component base="O.RECT"/>
+		<component base="circumflexcomb" xOffset="324" yOffset="191"/>
+		<component base="tildecombviet" xOffset="324" yOffset="358"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.87,0.87,0.87,0.48</string>
+		</dict>
+	</lib>
+</glyph>

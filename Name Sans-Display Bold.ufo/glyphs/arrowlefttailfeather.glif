@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowlefttailfeather" format="2">
+	<advance width="1053"/>
+	<unicode hex="2919"/>
+	<outline>
+		<component base="arrowrighttailfeather" xScale="-1" yScale="-1" xOffset="1053" yOffset="727"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.68,0.68,0.68,0.5</string>
+		</dict>
+	</lib>
+</glyph>
