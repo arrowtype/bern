@@ -2,8 +2,8 @@
 <glyph name="ohorn.flat" format="2">
 	<advance width="641"/>
 	<anchor x="572" y="0" name="ogonek"/>
-	<anchor x="321" y="534" name="top"/>
 	<anchor x="321" y="0" name="bottom"/>
+	<anchor x="321" y="534" name="top"/>
 	<outline>
 		<contour>
 			<point x="499" y="620" type="line"/>

@@ -2,9 +2,9 @@
 <glyph name="E" format="2">
 	<advance width="561"/>
 	<unicode hex="0045"/>
-	<anchor x="298" y="727" name="top"/>
-	<anchor x="284" y="0" name="bottom"/>
 	<anchor x="539" y="0" name="ogonek"/>
+	<anchor x="284" y="0" name="bottom"/>
+	<anchor x="298" y="727" name="top"/>
 	<outline>
 		<contour>
 			<point x="539" y="0" type="line"/>

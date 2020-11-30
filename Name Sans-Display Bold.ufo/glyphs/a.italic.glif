@@ -2,9 +2,9 @@
 <glyph name="a.italic" format="2">
 	<advance width="626"/>
 	<guideline x="212.67" y="535.33" angle="0"/>
-	<anchor x="309" y="536" name="top"/>
 	<anchor x="585" y="0" name="ogonek"/>
 	<anchor x="310" y="-12" name="bottom"/>
+	<anchor x="309" y="536" name="top"/>
 	<outline>
 		<contour>
 			<point x="585" y="0" type="line"/>

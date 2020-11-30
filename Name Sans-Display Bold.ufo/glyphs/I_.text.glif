@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I.text" format="2">
 	<advance width="493"/>
-	<anchor x="245" y="727" name="top"/>
-	<anchor x="245" y="0" name="bottom"/>
 	<anchor x="463" y="0" name="ogonek"/>
+	<anchor x="245" y="0" name="bottom"/>
+	<anchor x="245" y="727" name="top"/>
 	<outline>
 		<contour>
 			<point x="30" y="0" type="line"/>
