@@ -585,6 +585,7 @@
 	</array>
 	<key>public.kern1.u</key>
 	<array>
+		<string>V</string>
 		<string>u</string>
 		<string>ugrave</string>
 		<string>uacute</string>

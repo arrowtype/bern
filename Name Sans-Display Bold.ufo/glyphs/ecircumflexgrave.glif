@@ -7,8 +7,8 @@
 	</note>
 	<outline>
 		<component base="e"/>
-		<component base="circumflexcomb" xOffset="304"/>
-		<component base="gravecombviet" xOffset="476" yOffset="77"/>
+		<component base="circumflexcomb" xOffset="301"/>
+		<component base="gravecombviet" xOffset="473" yOffset="77"/>
 	</outline>
 	<lib>
 		<dict>
