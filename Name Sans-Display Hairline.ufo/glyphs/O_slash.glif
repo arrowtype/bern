@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="2">
+	<advance width="854"/>
+	<unicode hex="00D8"/>
+	<guideline x="1586" y="1356" angle="219.2389"/>
+	<guideline x="1402" y="1531" angle="233.8713"/>
+	<guideline x="1197" y="1127" angle="226.5266"/>
+	<guideline x="450" y="341" angle="46.5622"/>
+	<anchor x="420" y="727" name="top"/>
+	<outline>
+		<contour>
+			<point x="83" y="0" type="line"/>
+			<point x="167" y="89" type="line"/>
+			<point x="168" y="89" type="line"/>
+			<point x="680" y="630" type="line"/>
+			<point x="680" y="630" type="line"/>
+			<point x="773" y="728" type="line"/>
+			<point x="774" y="727" type="line"/>
+			<point x="681" y="629" type="line"/>
+			<point x="680" y="629" type="line"/>
+			<point x="169" y="89" type="line"/>
+			<point x="168" y="88" type="line"/>
+			<point x="84" y="-1" type="line"/>
+		</contour>
+		<component base="O"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.67,0.67,0.5</string>
+		</dict>
+	</lib>
+</glyph>

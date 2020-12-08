@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexhook" format="2">
+	<advance width="573"/>
+	<unicode hex="1EC2"/>
+	<note>
+		.case
+	</note>
+	<outline>
+		<component base="E"/>
+		<component base="circumflexcomb" xOffset="307" yOffset="218"/>
+		<component base="hookcombviet" xOffset="423" yOffset="154"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.87,0.87,0.87,0.49</string>
+		</dict>
+	</lib>
+</glyph>

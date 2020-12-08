@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncedilla.RECT" format="2">
+	<advance width="683"/>
+	<outline>
+		<component base="N.RECT"/>
+		<component base="commaaccentcomb" xOffset="352"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.5,0.5,0.5,0.5</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis.RECT_titl" format="2">
+	<advance width="703"/>
+	<outline>
+		<component base="U.RECT"/>
+		<component base="dotcomb" xScale="0.1305" yScale="1.1351" xOffset="354" yOffset="-99"/>
+		<component base="dotcomb" xScale="0.1305" yScale="1.1351" xOffset="354" yOffset="-273"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>U.RECT</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotcomb</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>dotcomb</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.67,0.67,0.67,0.5</string>
+		</dict>
+	</lib>
+</glyph>

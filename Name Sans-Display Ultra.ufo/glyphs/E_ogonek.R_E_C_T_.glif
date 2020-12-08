@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek.RECT" format="2">
+	<advance width="549"/>
+	<outline>
+		<component base="E.RECT"/>
+		<component base="ogonekcmb" xOffset="402"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.87,0.87,0.87,0.49</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.RECT" format="2">
+	<advance width="719"/>
+	<guideline x="594" y="374" angle="217.3853"/>
+	<outline>
+		<contour>
+			<point x="460" y="-92" type="line"/>
+			<point x="413" y="23" type="line"/>
+			<point x="428" y="115" type="line"/>
+			<point x="405" y="165" type="line"/>
+			<point x="496" y="216" type="line"/>
+			<point x="526" y="151" type="line"/>
+			<point x="633" y="106" type="line"/>
+			<point x="673" y="0" type="line"/>
+		</contour>
+		<component base="O.RECT"/>
+	</outline>
+</glyph>

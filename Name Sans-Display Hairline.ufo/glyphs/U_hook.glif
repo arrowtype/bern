@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhook" format="2">
+	<advance width="678"/>
+	<unicode hex="1EE6"/>
+	<note>
+		.case
+	</note>
+	<outline>
+		<component base="U"/>
+		<component base="hookcomb" xOffset="338" yOffset="218"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.87,0.87,0.87,0.49</string>
+		</dict>
+	</lib>
+</glyph>

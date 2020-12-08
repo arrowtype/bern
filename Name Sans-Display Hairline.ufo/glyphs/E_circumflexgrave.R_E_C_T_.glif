@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflexgrave.RECT" format="2">
+	<advance width="598"/>
+	<note>
+		.case
+	</note>
+	<outline>
+		<component base="E.RECT"/>
+		<component base="circumflexcomb" xOffset="289" yOffset="218"/>
+		<component base="gravecombviet" xOffset="423" yOffset="328"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.87,0.87,0.87,0.49</string>
+		</dict>
+	</lib>
+</glyph>

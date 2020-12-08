@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ihook" format="2">
+	<advance width="181"/>
+	<unicode hex="1EC9"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="hookcomb" xOffset="91"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.87,0.87,0.87,0.49</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R" format="2">
+	<advance width="709"/>
+	<unicode hex="0052"/>
+	<guideline x="519" y="342" angle="270"/>
+	<anchor x="360" y="727" name="top"/>
+	<anchor x="360" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="579" y="333" type="line"/>
+			<point x="304" y="290" type="line"/>
+			<point x="391" y="0" type="line"/>
+			<point x="703" y="0" type="line"/>
+		</contour>
+		<component base="P"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.rafalbuchner.mirroringDrawingLocal</key>
+			<dict>
+				<key>mirroringOptions</key>
+				<integer>3</integer>
+				<key>offset</key>
+				<array>
+					<integer>0</integer>
+					<integer>0</integer>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

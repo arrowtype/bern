@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron.RECT" format="2">
+	<advance width="714"/>
+	<outline>
+		<component base="R.RECT"/>
+		<component base="caroncomb" xOffset="363" yOffset="175"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.5,0.5,0.5,0.5</string>
+		</dict>
+	</lib>
+</glyph>

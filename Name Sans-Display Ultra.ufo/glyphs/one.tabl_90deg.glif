@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.tabl_90deg" format="2">
+	<advance width="620"/>
+	<outline>
+		<contour>
+			<point x="5" y="0" type="line"/>
+			<point x="586" y="0" type="line"/>
+			<point x="617" y="234" type="line"/>
+			<point x="457" y="234" type="line"/>
+			<point x="457" y="727" type="line"/>
+			<point x="286" y="727" type="line"/>
+			<point x="230" y="640"/>
+			<point x="153" y="594"/>
+			<point x="40" y="580" type="curve"/>
+			<point x="40" y="415" type="line"/>
+			<point x="214" y="415" type="line"/>
+			<point x="214" y="234" type="line"/>
+			<point x="5" y="234" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.67,0.67,0.5</string>
+		</dict>
+	</lib>
+</glyph>

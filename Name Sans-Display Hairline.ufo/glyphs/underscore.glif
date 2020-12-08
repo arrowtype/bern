@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="2">
+	<advance width="480"/>
+	<unicode hex="005F"/>
+	<guideline x="0"/>
+	<guideline x="102"/>
+	<guideline x="204"/>
+	<guideline x="306"/>
+	<guideline x="408"/>
+	<guideline x="510"/>
+	<guideline x="612"/>
+	<guideline x="714"/>
+	<guideline x="816"/>
+	<guideline x="918"/>
+	<guideline y="-356"/>
+	<guideline y="-254"/>
+	<guideline y="-152"/>
+	<guideline y="-50"/>
+	<guideline y="52"/>
+	<guideline y="154"/>
+	<guideline y="256"/>
+	<guideline y="358"/>
+	<guideline y="460"/>
+	<guideline y="562"/>
+	<guideline y="664"/>
+	<guideline y="766"/>
+	<guideline y="868"/>
+	<guideline y="970"/>
+	<guideline y="1072"/>
+	<guideline y="1174"/>
+	<guideline y="1276"/>
+	<guideline y="1378"/>
+	<guideline y="1480"/>
+	<guideline y="1582"/>
+	<guideline y="1684"/>
+	<outline>
+		<contour>
+			<point x="57" y="-178" type="line"/>
+			<point x="424" y="-178" type="line"/>
+			<point x="424" y="-177" type="line"/>
+			<point x="57" y="-177" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guideline.magnetic.1v6g8h7KCb</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.76k8S6WEN3</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.7v0cmhBDdE</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.9wCaPmhYb5</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.A3sUKaTyc2</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.DsphU2V5mz</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.FAn7lPhke6</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.Gc6QW9dKUf</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.H72Ru95rz9</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.HFT7TiN1tZ</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.MCZY2Agnbu</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.MI1QcjKqLh</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.MfoFoQAQAP</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.RjmyVnRnTy</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.SZpAwRpvuk</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.TOo4NMk21b</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.WLihtoOnX0</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.aPsMxBRmCk</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.dH90taSlIg</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.dbWsxCJDdq</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.eaptBEh4HG</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.fGCdTQkbIW</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.fcMdi5aWVv</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.gTibJIZGgd</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.hivd14FZkA</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.kYXAn2zDTF</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.ojozhqmmGO</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.pKGcEWPkCs</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.rOpq8ZKG9C</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.x18Rm4w8yj</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.guideline.magnetic.zD4rnaGuMx</key>
+			<integer>0</integer>
+			<key>public.markColor</key>
+			<string>0,0.95,0.95,0.25</string>
+		</dict>
+	</lib>
+</glyph>

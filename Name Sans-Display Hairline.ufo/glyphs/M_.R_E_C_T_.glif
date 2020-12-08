@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.RECT" format="2">
+	<advance width="837"/>
+	<outline>
+		<contour>
+			<point x="105" y="0" type="line"/>
+			<point x="105" y="727" type="line"/>
+			<point x="106" y="727" type="line"/>
+			<point x="419" y="1" type="line"/>
+			<point x="417" y="2" type="line"/>
+			<point x="420" y="2" type="line"/>
+			<point x="419" y="1" type="line"/>
+			<point x="732" y="727" type="line"/>
+			<point x="733" y="727" type="line"/>
+			<point x="733" y="0" type="line"/>
+			<point x="732" y="0" type="line"/>
+			<point x="732" y="726" type="line"/>
+			<point x="732" y="724" type="line"/>
+			<point x="731" y="724" type="line"/>
+			<point x="732" y="726" type="line"/>
+			<point x="420" y="0" type="line"/>
+			<point x="418" y="0" type="line"/>
+			<point x="105" y="726" type="line"/>
+			<point x="107" y="724" type="line"/>
+			<point x="105" y="724" type="line"/>
+			<point x="106" y="726" type="line"/>
+			<point x="106" y="0" type="line"/>
+		</contour>
+	</outline>
+</glyph>

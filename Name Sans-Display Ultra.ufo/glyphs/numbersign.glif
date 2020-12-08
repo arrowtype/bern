@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="2">
+	<advance width="769"/>
+	<unicode hex="0023"/>
+	<guideline y="727" name="capCenter"/>
+	<guideline x="46" y="426" angle="90"/>
+	<guideline x="1523" y="1034" angle="90"/>
+	<outline>
+		<contour>
+			<point x="223" y="727" type="line"/>
+			<point x="26" y="0" type="line"/>
+			<point x="244" y="0" type="line"/>
+			<point x="440" y="727" type="line"/>
+		</contour>
+		<contour>
+			<point x="526" y="727" type="line"/>
+			<point x="330" y="0" type="line"/>
+			<point x="547" y="0" type="line"/>
+			<point x="743" y="727" type="line"/>
+		</contour>
+		<contour>
+			<point x="25" y="399" type="line"/>
+			<point x="244" y="399" type="line"/>
+			<point x="263" y="404" type="line"/>
+			<point x="497" y="404" type="line"/>
+			<point x="516" y="399" type="line"/>
+			<point x="759" y="399" type="line"/>
+			<point x="759" y="636" type="line"/>
+			<point x="25" y="636" type="line"/>
+		</contour>
+		<contour>
+			<point x="10" y="101" type="line"/>
+			<point x="744" y="101" type="line"/>
+			<point x="744" y="325" type="line"/>
+			<point x="516" y="325" type="line"/>
+			<point x="497" y="320" type="line"/>
+			<point x="262" y="320" type="line"/>
+			<point x="244" y="325" type="line"/>
+			<point x="10" y="325" type="line"/>
+		</contour>
+	</outline>
+</glyph>

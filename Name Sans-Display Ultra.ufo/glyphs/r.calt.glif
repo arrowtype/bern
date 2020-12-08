@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r.calt" format="2">
+	<advance width="379"/>
+	<guideline x="779" y="634" angle="0"/>
+	<outline>
+		<contour>
+			<point x="278" y="0" type="line"/>
+			<point x="278" y="268" type="line" smooth="yes"/>
+			<point x="278" y="297"/>
+			<point x="291" y="317"/>
+			<point x="321" y="317" type="curve" smooth="yes"/>
+			<point x="372" y="317" type="line"/>
+			<point x="372" y="552" type="line"/>
+			<point x="345" y="552" type="line" smooth="yes"/>
+			<point x="283" y="552"/>
+			<point x="246" y="521"/>
+			<point x="228" y="465" type="curve"/>
+			<point x="224" y="465" type="line"/>
+			<point x="216" y="552" type="line"/>
+			<point x="20" y="552" type="line"/>
+			<point x="20" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.rafalbuchner.mirroringDrawingLocal</key>
+			<dict>
+				<key>mirroringOptions</key>
+				<integer>3</integer>
+				<key>offset</key>
+				<array>
+					<integer>0</integer>
+					<integer>0</integer>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

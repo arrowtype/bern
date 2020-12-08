@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcedilla.RECT" format="2">
+	<advance width="592"/>
+	<outline>
+		<component base="R.RECT"/>
+		<component base="commaaccentcomb" xOffset="295"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>R.RECT</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>commaaccentcomb</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.5,0.5,0.5,0.5</string>
+		</dict>
+	</lib>
+</glyph>

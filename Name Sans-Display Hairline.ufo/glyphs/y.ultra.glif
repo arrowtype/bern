@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.ultra" format="2">
+	<advance width="541"/>
+	<guideline x="733" y="408" angle="66.9546"/>
+	<anchor x="273" y="509" name="top"/>
+	<anchor x="412" y="0" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="204" y="-178" type="line"/>
+			<point x="497" y="509" type="line"/>
+			<point x="495" y="509" type="line"/>
+			<point x="279" y="-1" type="line"/>
+			<point x="280" y="0" type="line"/>
+			<point x="278" y="0" type="line"/>
+			<point x="279" y="-1" type="line"/>
+			<point x="46" y="509" type="line"/>
+			<point x="44" y="509" type="line"/>
+			<point x="277" y="1" type="line"/>
+			<point x="278" y="-2"/>
+			<point x="278" y="-2"/>
+			<point x="277" y="-4" type="curve"/>
+			<point x="203" y="-178" type="line"/>
+		</contour>
+	</outline>
+</glyph>

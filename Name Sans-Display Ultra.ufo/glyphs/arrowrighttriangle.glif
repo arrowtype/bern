@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowrighttriangle" format="2">
+	<advance width="1301"/>
+	<unicode hex="279D"/>
+	<outline>
+		<contour>
+			<point x="20" y="471" type="line"/>
+			<point x="20" y="256" type="line"/>
+			<point x="747" y="256" type="line"/>
+			<point x="747" y="471" type="line"/>
+		</contour>
+		<contour>
+			<point x="1281" y="276" type="line"/>
+			<point x="1281" y="452" type="line"/>
+			<point x="636" y="659" type="line"/>
+			<point x="608" y="582"/>
+			<point x="577" y="526"/>
+			<point x="521" y="463" type="curve"/>
+			<point x="521" y="264" type="line"/>
+			<point x="577" y="202"/>
+			<point x="608" y="146"/>
+			<point x="636" y="68" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.arrowtype.glyphMarkStatus</key>
+			<string>fix</string>
+			<key>public.markColor</key>
+			<string>0,0.95,0.95,0.25</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>capHeight</key>
+	<integer>0</integer>
+	<key>descender</key>
+	<integer>0</integer>
+	<key>openTypeHeadCreated</key>
+	<string>2020/11/26 16:41:38</string>
+	<key>openTypeHheaAscender</key>
+	<integer>942</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-240</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Stephen Nixon</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.stephennixon.com/</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>https://arrowtype.com/ArrowType-EULA.pdf</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Arrow Type</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.arrowtype.com/</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Name Sans</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 0.3, Build 0.211</string>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>11</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>4</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>305</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>50</integer>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>942</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-240</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>ARRW</string>
+	<key>openTypeOS2WinAscent</key>
+	<integer>942</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>240</integer>
+	<key>postscriptBlueValues</key>
+	<array/>
+	<key>postscriptOtherBlues</key>
+	<array/>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-150</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>140</integer>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>0</integer>
+	<key>versionMinor</key>
+	<integer>211</integer>
+	<key>xHeight</key>
+	<integer>0</integer>
+	<key>year</key>
+	<integer>2020</integer>
+</dict>
+</plist>

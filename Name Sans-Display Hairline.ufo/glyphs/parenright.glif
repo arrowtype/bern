@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright" format="2">
+	<advance width="303"/>
+	<unicode hex="0029"/>
+	<guideline x="550" y="1517" angle="0"/>
+	<outline>
+		<component base="parenleft" xScale="-1" yScale="-1" xOffset="286" yOffset="635"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,0.95,0.95,0.25</string>
+		</dict>
+	</lib>
+</glyph>

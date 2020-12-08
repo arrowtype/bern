@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek" format="2">
+	<advance width="594"/>
+	<unicode hex="0105"/>
+	<outline>
+		<contour>
+			<point x="348" y="20" type="line"/>
+			<point x="348" y="-1" type="line"/>
+			<point x="313" y="-17" type="line" smooth="yes"/>
+			<point x="275" y="-33"/>
+			<point x="259" y="-60"/>
+			<point x="259" y="-97" type="curve" smooth="yes"/>
+			<point x="259" y="-151"/>
+			<point x="296" y="-178"/>
+			<point x="364" y="-178" type="curve" smooth="yes"/>
+			<point x="576" y="-178" type="line"/>
+			<point x="576" y="-38" type="line"/>
+			<point x="510" y="-38" type="line" smooth="yes"/>
+			<point x="507" y="-38"/>
+			<point x="505" y="-37"/>
+			<point x="505" y="-34" type="curve" smooth="yes"/>
+			<point x="505" y="-31"/>
+			<point x="506" y="-30"/>
+			<point x="511" y="-28" type="curve" smooth="yes"/>
+			<point x="576" y="0" type="line"/>
+			<point x="542" y="46" type="line"/>
+		</contour>
+		<component base="a"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.87,0.87,0.87,0.49</string>
+		</dict>
+	</lib>
+</glyph>

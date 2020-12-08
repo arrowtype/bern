@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="2">
+	<advance width="624"/>
+	<unicode hex="0034"/>
+	<outline>
+		<contour>
+			<point x="13" y="91" type="line"/>
+			<point x="13" y="255" type="line"/>
+			<point x="341" y="727" type="line"/>
+			<point x="567" y="727" type="line"/>
+			<point x="567" y="0" type="line"/>
+			<point x="307" y="0" type="line"/>
+			<point x="307" y="199" type="line"/>
+			<point x="307" y="474" type="line"/>
+			<point x="362" y="385" type="line"/>
+			<point x="267" y="385" type="line"/>
+			<point x="370" y="484" type="line"/>
+			<point x="198" y="228" type="line"/>
+			<point x="235" y="322" type="line"/>
+			<point x="235" y="243" type="line"/>
+			<point x="151" y="279" type="line"/>
+			<point x="612" y="279" type="line"/>
+			<point x="612" y="91" type="line"/>
+		</contour>
+	</outline>
+</glyph>

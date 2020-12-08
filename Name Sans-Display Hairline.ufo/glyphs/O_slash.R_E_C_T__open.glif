@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash.RECT_open" format="2">
+	<advance width="676"/>
+	<guideline x="113" y="-142" angle="59.5259"/>
+	<anchor x="340" y="727" name="top"/>
+	<outline>
+		<contour>
+			<point x="76" y="-71" type="line"/>
+			<point x="150" y="56" type="line"/>
+			<point x="151" y="55" type="line"/>
+			<point x="77" y="-71" type="line"/>
+		</contour>
+		<contour>
+			<point x="516" y="678" type="line"/>
+			<point x="590" y="803" type="line"/>
+			<point x="591" y="803" type="line"/>
+			<point x="517" y="677" type="line"/>
+		</contour>
+		<component base="O.RECT"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.67,0.67,0.67,0.38</string>
+		</dict>
+	</lib>
+</glyph>

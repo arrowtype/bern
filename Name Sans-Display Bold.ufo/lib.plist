@@ -690,7 +690,7 @@
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
 	<key>com.schriftgestaltung.weightValue</key>
-	<integer>0</integer>
+	<integer>150</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>space</string>
@@ -1346,6 +1346,7 @@
 		<string>dollar.open</string>
 		<string>cent.open</string>
 		<string>.notdef</string>
+		<string>J.001</string>
 		<string>Ohorn.flat</string>
 		<string>dotlessi</string>
 		<string>ohorn.flat</string>

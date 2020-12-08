@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_gridunit" format="2">
+	<advance width="89"/>
+	<outline>
+		<contour>
+			<point x="0" y="0" type="line"/>
+			<point x="49" y="0" type="line"/>
+			<point x="49" y="49" type="line"/>
+			<point x="0" y="49" type="line"/>
+		</contour>
+		<contour>
+			<point x="-5" y="-5" type="line"/>
+			<point x="54" y="-5" type="line"/>
+			<point x="54" y="54" type="line"/>
+			<point x="-5" y="54" type="line"/>
+		</contour>
+		<contour>
+			<point x="8" y="5" type="line"/>
+			<point x="5" y="8" type="line"/>
+			<point x="5" y="41" type="line"/>
+			<point x="8" y="44" type="line"/>
+			<point x="41" y="44" type="line"/>
+			<point x="44" y="41" type="line"/>
+			<point x="44" y="8" type="line"/>
+			<point x="41" y="5" type="line"/>
+		</contour>
+		<contour>
+			<point x="8" y="54" type="line"/>
+			<point x="5" y="57" type="line"/>
+			<point x="5" y="89" type="line"/>
+			<point x="8" y="92" type="line"/>
+			<point x="41" y="92" type="line"/>
+			<point x="44" y="89" type="line"/>
+			<point x="44" y="57" type="line"/>
+			<point x="41" y="54" type="line"/>
+		</contour>
+	</outline>
+</glyph>

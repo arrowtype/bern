@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecombviet" format="2">
+	<advance width="0"/>
+	<anchor x="-47" y="521" name="_side"/>
+	<anchor x="0" y="562" name="_top"/>
+	<outline>
+		<contour>
+			<point x="0" y="595" type="line"/>
+			<point x="129" y="727" type="line"/>
+			<point x="17" y="798" type="line"/>
+			<point x="-86" y="677" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.arrowtype.glyphMarkStatus</key>
+			<string>fix</string>
+			<key>public.markColor</key>
+			<string>1,0.65,0.65,1</string>
+		</dict>
+	</lib>
+</glyph>

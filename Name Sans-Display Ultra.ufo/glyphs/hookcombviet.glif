@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookcombviet" format="2">
+	<advance width="0"/>
+	<guideline x="-146" y="1626" angle="316.2018"/>
+	<guideline x="-178" y="1927" angle="270"/>
+	<anchor x="-49" y="673" name="_side"/>
+	<anchor x="0" y="711" name="_top"/>
+	<outline>
+		<contour>
+			<point x="0" y="743" type="line"/>
+			<point x="47" y="784" type="line" smooth="yes"/>
+			<point x="75" y="809"/>
+			<point x="89" y="836"/>
+			<point x="89" y="868" type="curve" smooth="yes"/>
+			<point x="89" y="926"/>
+			<point x="47" y="964"/>
+			<point x="-28" y="964" type="curve" smooth="yes"/>
+			<point x="-86" y="964" type="line"/>
+			<point x="-86" y="855" type="line"/>
+			<point x="-60" y="855" type="line" smooth="yes"/>
+			<point x="-49" y="855"/>
+			<point x="-44" y="850"/>
+			<point x="-44" y="841" type="curve" smooth="yes"/>
+			<point x="-44" y="835"/>
+			<point x="-46" y="832"/>
+			<point x="-52" y="826" type="curve" smooth="yes"/>
+			<point x="-70" y="810" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.arrowtype.glyphMarkStatus</key>
+			<string>fix</string>
+			<key>public.markColor</key>
+			<string>1,0.65,0.65,1</string>
+		</dict>
+	</lib>
+</glyph>

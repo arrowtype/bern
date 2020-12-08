@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commercialminus" format="2">
+	<advance width="620"/>
+	<unicode hex="2052"/>
+	<guideline y="727" name="capCenter"/>
+	<outline>
+		<contour>
+			<point x="575" y="727" type="line"/>
+			<point x="47" y="0" type="line"/>
+			<point x="45" y="0" type="line"/>
+			<point x="574" y="727" type="line"/>
+		</contour>
+		<component base="period" yOffset="580"/>
+		<component base="period" xOffset="422"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.5,0.5,0.5,0.5</string>
+		</dict>
+	</lib>
+</glyph>
